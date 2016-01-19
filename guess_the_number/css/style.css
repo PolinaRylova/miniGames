@@ -1,0 +1,9 @@
+input {
+	padding: 5px;
+	width: 150px;
+}
+
+p {
+	padding: 5px 0;
+	font-size: 14px;
+}

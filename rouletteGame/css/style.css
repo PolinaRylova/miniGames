@@ -1,0 +1,22 @@
+.block {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 5px;
+	border: 1px solid grey;
+}
+
+button {
+	display: block;
+	margin-top: 10px;
+}
+
+.winner_block {
+	margin-top: 15px;
+	font-size: 24px;
+	color: #b22222;
+	display: none;
+}
+
+.rerunBtn {
+	display: none;
+}
